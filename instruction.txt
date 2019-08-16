@@ -1,0 +1,7 @@
+Please follow the instruction below
+
+1.open your cli and type npm install
+
+2.on your cli type npm start
+
+the port runs in localhost:3000
